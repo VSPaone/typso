@@ -1,0 +1,29 @@
+{
+    "name": "typso",
+    "version": "1.0.0",
+    "description": "A comprehensive runtime type-checking library for JavaScript, React, Node.js, and Express.",
+    "main": "typso.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/VSPaone/typso.git"
+    },
+    "keywords": [
+      "type-checking",
+      "validation",
+      "react",
+      "express",
+      "runtime",
+      "typescript",
+      "schema-validation"
+    ],
+    "author": "Sai Pavan Velidandla",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/VSPaone/typso"
+    },
+    "homepage": "https://github.com/VSPaone/typso#readme",
+    "dependencies": {}
+  }  
